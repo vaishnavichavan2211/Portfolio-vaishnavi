@@ -128,11 +128,7 @@ button {
   width: 100%;
 }
 
-.link--nav {
-  color: var(--clr-fg);
-  text-transform: lowercase;
-  font-weight: 500;
-}
+
 
 .link--icon {
   color: var(--clr-fg);
